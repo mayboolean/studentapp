@@ -5,7 +5,7 @@ const ClassInfo = (props) => {
       <h2>Class Information</h2>
       <ul>
         <li>Name: Team Semicolons</li>
-        <li>Number of members:{props.count}</li>
+        {/* <li>Number of members:{props.count}</li> */}
       </ul>
     </>
   );
